@@ -19,7 +19,7 @@ ignore = ["node_modules/"]
 generate_rss = true
 website_title = "Kosuke Akita"
 website_descr = "Example website using Franklin"
-website_url   = "https://github.com/Akita-Kosuke/akita.github.io"
+website_url   = "https://akita.github.io"
 +++
 
 <!--
